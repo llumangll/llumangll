@@ -1,5 +1,5 @@
 # 💫 About Me:
-Gemini said<br>That’s a great addition! Since you’re a Java-focused developer, having the HTML/CSS/JS trio makes you a much more versatile full-stack builder.<br><br>Here is a refined, simple GitHub version that includes your web interests:<br><br>Hi there, I'm Umang Rabadiya 👋<br>I am a Computer Science student at Nirma University and an aspiring Software Engineer. I’m passionate about the "how" and "why" behind software, from high-level system design to low-level optimization.
+<br><br>Hi there, I'm Umang Rabadiya 👋<br>I am a Computer Science student at Nirma University and an aspiring Software Engineer. I’m passionate about the "how" and "why" behind software, from high-level system design to low-level optimization.
 
 
 ## 🌐 Socials:
