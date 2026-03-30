@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>Hi there, I'm Umang Rabadiya 👋<br>I am a Computer Science student at Nirma University and an aspiring Software Engineer. I’m passionate about the "how" and "why" behind software, from high-level system design to low-level optimization.
+Hi there, I'm Umang Rabadiya 👋<br>I am a Computer Science student at Nirma University and an aspiring Software Engineer. I’m passionate about the "how" and "why" behind software, from high-level system design to low-level optimization.
 
 
 ## 🌐 Socials:
